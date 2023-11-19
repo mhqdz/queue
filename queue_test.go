@@ -1,8 +1,9 @@
 package queue_test
 
 import (
-	"queue"
 	"testing"
+
+	"github.com/mhqdz/queue"
 )
 
 func TestMain(t *testing.T) {
